@@ -32,5 +32,5 @@ end
 total_population = 0
 for population in united_kingdom
   total_population += population[:population]
-  p total_population
   end
+  p total_population
